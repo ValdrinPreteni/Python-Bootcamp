@@ -1,5 +1,6 @@
 # Python-Bootcamp
 Project 1: Coffee Machine (Print report, Check resources sufficient, Process Payment, Make Coffee)
+
 This is a sample project how a coffee machine would work in python.
 While the code is running we will have a menu that will ask us to use 1 of 3 options,
 1) Make order
